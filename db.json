@@ -1,0 +1,19 @@
+{
+  "create": [
+    {
+      "name": "Tamanna. K",
+      "email": "tamannatam355@gmail.com",
+      "phone": "9987465830",
+      "id": 1
+    },
+    {
+      "name": "Harry",
+      "email": "harry@gmail.com",
+      "phone": "1123545789",
+      "id": 2
+    }
+  ],
+  "update": [],
+  "view": [],
+  "home": []
+}
